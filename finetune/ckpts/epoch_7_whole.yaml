@@ -1,0 +1,58 @@
+accum_grad: 2
+batch_idx: 5
+checkpoint: /home/odb/model/Fun-CosyVoice3-0.5B-2512/llm.pt
+config: /home/odb/vertin_spark_full/conf/cosyvoice3_sft.yaml
+cv_data: /home/odb/vertin_spark_full/data/processed/kaldi/dev/parquet/data.list
+deepscale: false
+deepscale_config: null
+deepspeed: false
+deepspeed_config: null
+dist_backend: nccl
+dpo: false
+dtype: bf16
+epoch: 7
+grad_clip: 5
+grad_norm: !!python/object/apply:torch._utils._rebuild_tensor_v2
+- !!python/object/apply:torch.storage._load_from_bytes
+  - !!binary |
+    gAKKCmz8nEb5IGqoUBkugAJN6QMugAJ9cQAoWBAAAABwcm90b2NvbF92ZXJzaW9ucQFN6QNYDQAA
+    AGxpdHRsZV9lbmRpYW5xAohYCgAAAHR5cGVfc2l6ZXNxA31xBChYBQAAAHNob3J0cQVLAlgDAAAA
+    aW50cQZLBFgEAAAAbG9uZ3EHSwR1dS6AAihYBwAAAHN0b3JhZ2VxAGN0b3JjaApGbG9hdFN0b3Jh
+    Z2UKcQFYCgAAADMyNTYyMTQ3NTJxAlgGAAAAY3VkYTowcQNLAU50cQRRLoACXXEAWAoAAAAzMjU2
+    MjE0NzUycQFhLgEAAAAAAAAA6A1gQA==
+- 0
+- !!python/tuple []
+- !!python/tuple []
+- false
+- !!python/object/apply:collections.OrderedDict
+  - []
+log_interval: 10
+loss_dict:
+  acc: 0.16699442267417908
+  loss: 4.810139060020447
+lr: 1.0e-05
+max_epoch: 200
+model: llm
+model_dir: /home/odb/vertin_spark_full/exp/cosyvoice3/llm/torch_ddp
+num_workers: 0
+onnx_path: /home/odb/model/Fun-CosyVoice3-0.5B-2512
+optim: adam
+optim_conf:
+  lr: 1.0e-05
+pin_memory: false
+prefetch: 4
+qwen_pretrain_path: /home/odb/model/Fun-CosyVoice3-0.5B-2512/CosyVoice-BlankEN
+ref_model: null
+save_per_step: -1
+save_states: model_only
+save_time: 07/09/2026 15:55:45
+scheduler: constantlr
+scheduler_conf:
+  warmup_steps: 2500
+step: 437
+tag: CV
+tensorboard_dir: /home/odb/vertin_spark_full/tensorboard/cosyvoice3/llm/torch_ddp
+timeout: 60
+train_data: /home/odb/vertin_spark_full/data/processed/kaldi/train/parquet/data.list
+train_engine: torch_ddp
+use_amp: true

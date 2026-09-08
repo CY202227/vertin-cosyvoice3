@@ -1,0 +1,388 @@
+5TH The Prisoner in the Cave — Vertin lines only.
+Source: https://reverse1999-gnomon.pages.dev/story/main/the-prisoner-in-the-cave
+Gnomon has no prologue; this is the full main-story chapter.
+Stage directions and other speakers removed. For TTS, blank line = pause.
+
+# Stage 1: Bon Voyage
+
+Hm. Prepare the Teleport soft disk.
+
+I see. I have a question for you, Sonetto.
+
+Hmm. In the Field Mission Evacuation Instructions, apart from the part about "asking the Timekeeper for help" ... Is there anyone else we can reach out to for rescue?
+
+Well, she did try her best to pick the music. Though no one is in the mood, I think this piece is not bad. As to Regulus's question ... We need to slightly twiddle this knob. To ... 1913.
+
+# Stage 2: Treasure Hunt
+
+This is ...
+
+I can apply for a ship for you, but it's not guaranteed.
+
+I see. I have only one question. Are you still our point of contact for the Foundation, Madam Z?
+
+Then I have no further questions.
+
+What's our mission?
+
+Okay.
+
+That base the Manus used to keep its Olitiaus four years ago. It has never been reversed by the "Storm." I'd like to investigate that place again.
+
+It used to be the nest of Olitiaus, a kind of creature resting in valleys with abundant water resources. What's more, it's winter now.
+
+You're not planning on destroying this place now, are you, Regulus?
+
+Ms. Moissan, welcome to the team. Madam Z said you're an excellent tutor in arcanum.
+
+According to Madam Z, Ms. Moissan used to be Sotheby's private teacher.
+
+There might be some clues that are invisible. Regulus is a specialist in optical arcane skills, maybe she can find something.
+
+Unknown attackers. Everyone, be careful!
+
+# Stage 3: Treasure Box
+
+I see. Do you mind us investigating this place? It won't be long.
+
+Wait a second, Regulus. Show me the thing in your arms.
+
+No, the supply box. It has my name on it.
+
+As far as I know, no one is called by that name but me.
+
+Regulus, wait, don't ...
+
+What ... End of the 20th century ... Voice of the Millennium ... Is this radio broadcasting news in 1999?
+
+Ms. Moissan, watch your six! Let us help you!
+
+The "era" of 1929 only lasted for two days. The frequent change of time muddles work and responsibilities in the Foundation, which in turn caused some chaos within it. Luckily, Ms. Moissan noticed the signs of it at the beginning.
+
+This is ... The Manus mask they used to stay immune to the "Storm"?!
+
+# Stage 4: Time to Set Sail
+
+What a familiar name.
+
+Does that mean it'll be possible for the Scientific Computing Center to develop protective gears which are immune to the "Storm," like the Manus does?
+
+I'll be careful. Thank you, Mesmer.
+
+How do you feel now? I'm sorry about what happened in the rehab center.
+
+That'll be the next thing to find out in our investigation, I think. Manus Vindictae always has more information on the "Storm" and how to be immune to it. We've been trying our best to keep up with their progress. Fortunately, now we have another direction.
+
+Thank you, Sonetto. With these files and the help of Regulus ... That should be enough.
+
+This interrogation won't get us anywhere. Laplace didn't detect any unusual arcane marks on her.
+
+Yes, I understand what you mean. But for now, the evidence can't support our speculation. A field trip may be helpful, I guess. What's your plan? Will you come with me? I've informed Madam Z. This will be the first official field mission of our team. Sotheby and Druvis are still on leave. They will not take part in this action. While Ms. Moissan will stay put in the Foundation's headquarters as our contact.
+
+The Apollo Star we just heard about means the sun. The Ford Sextant Model T is an arcane device produced in the early 19th century. The Scientific Computing Center has one of those as a part of their collection. The Gorgon Current is mostly created in the Aegean Sea, near the Balkan Peninsula. I remembered an arcanum magazine in the 1970s had a detailed article about this and introduced the circulating current. I read it in the periodical room in SPDM. The current will be flowing backwards every time the Earth is at aphelion and perihelion. This is also known as the Current Reversal. Which is on the third day of January and July this year. And the time in the outside world is ... January 1st, 1914.
+
+Regulus, you've been longing for a ship, haven't you? What if I tell you that I have got you one?
+
+# Stage 5: The Watch Losing Time
+
+It's not working. I've tried different ways, but the tempest blocked every signal I sent for help.
+
+Wait, there might be another way. I'm sorry, Ms. Radio. I need to borrow you for a second.
+
+Field Mission Evacuation Instructions, Article 21 ...
+
+"Whenever there is an emergency, the field officer may send an SOS code with their wands through any transmission device with round buttons on it." "Any Foundation member nearby will provide immediate humanitarian aid." "To send the code, please turn the knob one time to the right, half to the left, and then one time to the right." If you succeed, you shall hear ...
+
+Thank you so much! We are ...
+
+We were under attack by a giant sea monster when sailing in the Gorgon Current. Please help us ashore safely!
+
+Not good! It's crawling into the cabin! It plans to tear the ship apart from the inside! Everyone, watch ...
+
+Pardon me?
+
+Are you talking about my pocket watch?
+
+I, I don't understand. Do you mean this is the right time?
+
+# Stage 6: Kingdom of Numbers
+
+You are saying we are in 2007?
+
+Do you know the "Storm"?
+
+I don't understand.
+
+I'm Vertin.
+
+Have you seen my companions?
+
+What?
+
+I'll ask something else instead. What is this place?
+
+What island?
+
+Huh! Maybe another question. Did a biographer named Urd visit here before, in 1999?
+
+Sorry to interrupt, but I only meant to ask about Urd, the biographer. She had been here on this island and written a travel note called Roaming in Apeiron. Does the name or the book ring a bell?
+
+Fragments of ... Matters?
+
+You've also been incredibly helpful, Regulus.
+
+You rebuilt my confidence in communicating with people. Have you seen Sonetto and the others?
+
+Sonetto, these people are ...?
+
+What if we know about the Emanation?
+
+We are the investigators from St. Pavlov Foundation. We are glad to share the information about the "Storm" or the Emanation. Please grant us entry to this island so that we can share them.
+
+I'll explain to you later. Trust me, please, Sonetto.
+
+# Stage 7: Canned Beans
+
+It's clear then. "Real numbers" refer to arcanists, and "imaginary numbers" mean humans.
+
+So it's not determined by our lineage, or Regulus would have been an integer, too.
+
+But they use modern mathematical terms, and that girl talked about Kaprekar—he was an Indian mathematician active in the first half of the 20th century. I think they are not living in complete isolation. They are still in contact with the outside world. This place wouldn't be affected by the "Storm," just like the Olitiau base, Foundation headquarters, and my suitcase. The travel notes in 1999, Manus Vindictae showing up in Olitiau's base, the "Storm," or Emanation ... They must be somehow connected. And we'll find our answer here, I think.
+
+This is not good. We need to separate them.
+
+# Stage 8: Ancient Rules
+
+This is an archaic arcanist group we're dealing with. I assume they have their own reason for these.
+
+So that's what their judgment is based on.
+
+This is not good. They seem dangerous. Regulus, come to my side!
+
+The arcane skills cast by the congregation on this island are very different from those we have seen. Mr. Apple is with Regulus. She won't be in danger for now. Let's follow Sophia.
+
+# Stage 9: Silent Meeting
+
+No problem. Ms. Sophia, could you give us some privacy?
+
+No, I'll come with you, Sonetto.
+
+I can't sense any sign of arcane skill on this stone. The oath is more of a formality than a curse.
+
+But when Sophia repaired the floor in front of us with her arcane skill ... There's no fluctuation of arcane power, either. I can't even sense the slightest signs. It's either a kind of arcane skills we're not able to detect ... Or, the moment we stepped onto this island ...
+
+I know, Sonetto. But as long as we obey their rules, we won't get into other trouble. The doctrine of the Apeiron is to live in solitude and seek nothing but the truth. In fact, they've never been aggressive towards us.
+
+Yet we haven't spotted any traces of the Manus here.
+
+Which means we need to find out the truth.
+
+... I wish to be baptized in the water of Gnosis, and be rid of the long darkness of ignorance.
+
+... I choose to leave the fragments of Matters behind me, and enter the great hall of Forms as clean as a newborn.
+
+... I swear to reveal no secrets ...
+
+... Or my heart shall be taken by the vulture, my body consumed in flames, my soul trapped in the endless wheel of birth.
+
+Get ready to run, Sonetto. The Abraxases are coming.
+
+# Stage 11: The Ruler's Help
+
+I apologize, Ms. Sophia. I won't defend our behaviour.
+
+These files are ...! But won't you be in trouble for helping us?
+
+She is a nice person.
+
+Does that mean you will help us?
+
+What chance?
+
+I'd be glad to give this chance to you.
+
+# Stage 12: Route of a Bird
+
+Are you alright?
+
+Sonetto ...
+
+What? It's valid?!
+
+I see. So that's how it works.
+
+Relax. I will help you.
+
+I—object!
+
+I'd like to start by quoting 42's first argument. "People without a number cannot stand in the Hall of Truth." In that case, it's not possible for Sonetto to commit a crime in the Hall of Truth. Because she can't even be in the hall!
+
+Since Sonetto has no number, and a person without a number does not exist before the truth ... Sonetto, thus, didn't offend your truth. She didn't break any rules.
+
+I got it! It is easy to prove Sonetto's innocence. According to the law of excluded middle, Sonetto either committed a sin or committed no sin. The two statements cannot be both false at the same time. Since we consider a criminal as a negative number and a non-criminal as a positive number, Sonetto at present is considered an unknown number. That means she doesn't belong to the "criminal set" or the "non-criminal" set. She did not commit a sin and did not commit no sin. It's a paradox! I hereby demand to modify the criminal sentence that has been given to Sonetto!
+
+Ah! There is no time left.
+
+# Stage 13: The Middle of the Axis
+
+Ah! Sonetto!
+
+Thank you.
+
+I've heard your preachment—pretty demagogic.
+
+I'm sorry.
+
+What do you mean?
+
+It doesn't seem like trouble to me.
+
+# Stage 14: Chain of Peace
+
+I appreciate that. I'll sign it.
+
+The peace agreement ...
+
+She's doing "well," thanks to you.
+
+But Schneider should be the victim of a merciless bullet?
+
+What's Manus Vindictae's purpose to be here?
+
+A wooden box in the Olitiau's base has my name on it. Was that your doing?
+
+It's burning.
+
+# Stage 15: Convergent Birds
+
+I heard that you've completed all the lessons on the scripture. This laurel wreath suits you well.
+
+That was not your fault, Sonetto. It is now behind us. I need to tell you something more important. I've signed a peace agreement with Arcana, and the price of breaking it is ... death.
+
+Yes. She put it on without hesitation. But I don't think her purpose would be as simple as "hearkening the ancient wisdom."
+
+I attacked Manus followers earlier, as 37 asked me to, but I received no punishment from the bangle. Perhaps this island makes its own judgment on what to be classified as hostility ... Like it has a mind of its own. Sonetto, do not report this to the headquarters before we figure out how the bangle works. After all, there are many other things to investigate on this island other than Manus Vindictae.
+
+I tried to collect some samples last night in the outer region of the island. But the detecting device showed nothing. If we were to find out more, we have to go to the centre area ...
+
+Lilya? Didn't you say you have Regulus with you safely?
+
+Do we have to go through this debate again?
+
+Forget it?
+
+Haven't you been to school, Regulus?
+
+We are counting on you, Sonetto. I have a feeling ... We are coming closer to a big secret.
+
+# Stage 16: Sound the Alarm
+
+Why do you keep referring to the "Storm" as the Emanation? What does the Emanation mean?
+
+Can you fix an IDM, Regulus?
+
+Every record here can perfectly match what is in the Foundation's files. Wait. These are the records before 2003, you say? But this one refers to the "Storm" in 1966, which happened recently!
+
+You made such a precise prediction even without leaving the island! Huh, that's incredible!
+
+37, where is your mother now?
+
+The "Form" you said ... 37, what is it?
+
+# Stage 17: The Empty Ship
+
+37, we see the "Storm" very differently. Among all the other things, we saw it, first of all, as a disaster.
+
+I'm sorry for mentioning your mother.
+
+I don't get it. Why did you say my number is 0?
+
+# Stage 18: Outside the Cave
+
+210 told me numbers imply our fate.
+
+This is indeed an extreme comment.
+
+What about your number? What does 37 mean?
+
+No, it's not junk. I think I know why your model didn't work.
+
+Manus Vindictae has changed history. They accelerated history, forcing historical events to happen earlier than it was supposed to; thus, the "Storm" in 1929 occurred sooner than it should ...
+
+I'm telling the truth, 37. I've been there, in the "Storm" of 1929. Your model was not wrong. You just missed some key information. You've never been to the place where the "Storm" falls and thus know nothing about the symptoms of the Storm Syndrome ... ... and the true purposes of Manus Vindictae.
+
+I swear I wasn't lying.
+
+# Stage 19: The Upstream Boat
+
+37, wait. I remember Sophia once told us that trespassing on the sacred place is a serious crime.
+
+Hold there. Something is coming out.
+
+They're coming for us.
+
+Regulus, prepare for battle!
+
+Ah!
+
+The stone bangle is activated? But they are just Abraxas. Regulus, wait for their attack! Do not kill them!
+
+Listen to me, Regulus, that's of prime importance!
+
+These are not the same kind of Abraxas as we've encountered before. Do they have different varieties?
+
+Wait a second, Regulus. Do you sense anything familiar in the fog?
+
+That's the same fog in the Olitiau's base.
+
+Don't rush to conclusions. Follow 37 first. Oh, and what's that Ceres you were talking about?
+
+What book is it?
+
+You want to read these books here?
+
+Be careful, Regulus.
+
+# Stage 20: The Truth Seeker
+
+And how do I submit my proof?
+
+Close my eyes
+
+The "Storm," the Emanation, the Storm Syndrome. Where are they from? Foundation, Manus Vindictae, Apeiron. What roles do they play? Why does the "Storm" fall when history trembles? Why doesn't the "Storm" fall into the misty land? What is the ingredient of "asymmetrical nuclide R" ...
+
+I ... ... It's burning!
+
+What's going on? Is somebody fighting with the Manus now? What's happening outside the cave?
+
+Ah!
+
+Huh?! 37? 37?!
+
+What happened? Were all those illusions? If it weren't for the heat of the stone bangle that wakes me up, would I go as crazy as they did? This stone reminds me of the spinning wheel.
+
+The collector of "asymmetrical nuclide R" ... If the reagent turns gold after reacting with the fog here, that means ... The fog contains elements that can be immune to the "Storm."
+
+The color changed faster than I thought. The concentration of R is hundreds of times, no, thousands of timeshigher than in the Manus's masks. In other words, whoever owns this cave can produce the protective equipment of the "Storm" in big numbers. Is that the reason why Arcana is here?!
+
+I need to take 37 out of here.
+
+So the Abraxases were people from the Manus. The fog here can affect people's minds, like those around the lake in my suitcase. Hold up my wrist
+
+Have the Manus found a way to launch attacks without being punished by the bangle? Or, don't they care about the "price" they will be paying anymore?
+
+I hope Regulus didn't throw my words to the wind. I have to get rid of them first and go out to join the others!
+
+The peace agreement no longer works? Or is it safe as long as the contracting parties have "no intention to fight"? ... The conditions are not clear. A reckless attack may lead to the punishment of the bangle. I have to be careful with the method and timing of attacking. Wait, the body ... is melting? It turns into ... a seed? ... So this is how the Manus fight against the restrictions. They sacrifice one man ... to feed another. The sacrificed follower has been absorbed by the seed ... Is this some kind of ritual?
+
+37? Can you hear me?
+
+The dead followers turned into geometric symbols ... Is it because of the cave? So the seed, is the "form" of Manus Vindictae?
+
+Things are not as simple as I thought. I must make a plan and exercise great care. The "form" of Manus Vindictae ... It's more distorted than I thought. ...It's all over.
+
+# Stage 21: Invaders in Black
+
+The cave is the key to being immune to the "Storm." There is a cave on this island which has the same effect as my suitcase. That's what the Manus are after!
+
+No! 37! NO!

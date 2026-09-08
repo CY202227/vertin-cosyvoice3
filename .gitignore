@@ -1,0 +1,26 @@
+# Local env
+.venv/
+.venv-cosyvoice/
+.venv-dataprep/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Weights and audio — too large for GitHub
+runtime/pretrained_models/
+runtime/CosyVoice/
+finetune/ckpts/*.pt
+finetune/data/raw_wav/
+finetune/data/processed/clips/
+finetune/data/processed/kaldi/
+finetune/data/source/
+infer/outputs/
+*.wav
+!infer/assets/prompt.wav
+*.mp4
+*.onnx
+*.tar
+*.zip
+exp/
+tensorboard/

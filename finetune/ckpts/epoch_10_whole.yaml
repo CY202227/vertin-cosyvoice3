@@ -1,0 +1,45 @@
+accum_grad: 2
+batch_idx: 5
+checkpoint: /home/odb/model/Fun-CosyVoice3-0.5B-2512/llm.pt
+config: /home/odb/vertin_spark_full/conf/cosyvoice3_sft.yaml
+cv_data: /home/odb/vertin_spark_full/data/processed/kaldi/dev/parquet/data.list
+deepscale: false
+deepscale_config: null
+deepspeed: false
+deepspeed_config: null
+dist_backend: nccl
+dpo: false
+dtype: bf16
+epoch: 10
+grad_clip: 5
+grad_norm: 0.0
+log_interval: 10
+loss_dict:
+  acc: 0.17002384550869465
+  loss: 4.810359865427017
+lr: 1.0e-05
+max_epoch: 200
+model: llm
+model_dir: /home/odb/vertin_spark_full/exp/cosyvoice3/llm/torch_ddp
+num_workers: 0
+onnx_path: /home/odb/model/Fun-CosyVoice3-0.5B-2512
+optim: adam
+optim_conf:
+  lr: 1.0e-05
+pin_memory: false
+prefetch: 4
+qwen_pretrain_path: /home/odb/model/Fun-CosyVoice3-0.5B-2512/CosyVoice-BlankEN
+ref_model: null
+save_per_step: -1
+save_states: model_only
+save_time: 07/09/2026 15:57:34
+scheduler: constantlr
+scheduler_conf:
+  warmup_steps: 2500
+step: 601
+tag: CV
+tensorboard_dir: /home/odb/vertin_spark_full/tensorboard/cosyvoice3/llm/torch_ddp
+timeout: 60
+train_data: /home/odb/vertin_spark_full/data/processed/kaldi/train/parquet/data.list
+train_engine: torch_ddp
+use_amp: true
