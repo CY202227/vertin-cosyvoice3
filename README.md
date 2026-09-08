@@ -1,6 +1,6 @@
 # Vertin CosyVoice3
 
-汀英语声音：CosyVoice3 LLM 微调 + 本地推理。仓库只分三个目录。
+Vertin英语声音：CosyVoice3 LLM 微调 + 本地推理。仓库只分三个目录。
 
 ```text
 finetune/   数据准备、SFT 训练脚本、checkpoint
